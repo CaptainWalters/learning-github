@@ -1,21 +1,21 @@
 {
   "songs": [
-  {
-    "artist": "AC/DC",
-    "song": "Shoot to thrill"
-  },
-  {
-    "artist": "Motorhead",
-    "song": "Ace of Spades"
-  },
-  {
-    "artist": "Taylor swift",
-    "song": "22"
-  },
-  {
-    "artist": "Feeder",
-    "song": "Just a day"
-  },
+    {
+      "artist": "AC/DC",
+      "song": "Shoot to thrill"
+    },
+    {
+      "artist": "Motorhead",
+      "song": "Ace of Spades"
+    },
+    {
+      "artist": "Taylor swift",
+      "song": "22"
+    },
+    {
+      "artist": "Feeder",
+      "song": "Just a day"
+    },
     {
       "artist": "grizfolk",
       "song": "the struggle"
@@ -25,4 +25,6 @@
       "song": "Blood, Sweat and Tears"
     }
 
-]}
+  ]
+
+}
